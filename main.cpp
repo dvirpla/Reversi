@@ -14,7 +14,7 @@
 using namespace std;
 
 /*
- * main function
+ * main function1
  */
 int main() {
     // create game logic and players
